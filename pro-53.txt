@@ -1,0 +1,102 @@
+Let's Get Started, Coder!!
+Fill the following Document
+__________________________________________________________________________
+
+1. Which one of the following is an Imperative Language?
+
+1.HTML
+2.CSS
+3.Java Script
+
+Answer: Java Script ; 3	
+
+
+2. Which one of the following is a Declarative Language?
+
+1.HTML
+2.CSS
+3.Java Script
+
+Answer: HTML and CSS ; 1,2
+
+
+3. Name two uses of a DIV tag?
+
+Answer: •Div class is used for dividing classes like header,footer,text,etc..
+               •It makes us to style the code easily and appropriately.
+
+
+
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer: 
+
+
+
+
+5. What is the use of opacity in CSS?
+
+Answer: Opacity is used for transperency of a sprite.
+             •Ex:When you keep your opacity as 0 then the sprite will not be visible,when you keep 50 then it will slightly be visible.
+
+
+
+
+
+6. Which is the programming language used in the React Native Framework?
+
+Answer: JSX - JavaScript+HTML+CSS.
+
+
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+
+Answer: Expo Snack.
+
+
+
+
+
+8. Write the steps to test your first designed app in the online editor on mobile.
+
+Answer: Step1:First,after opening the Expo Snack tab,below the top right corner you can see the 4 options that are,
+○Web
+○IOS
+○Android
+○My Device
+            Step2:Then,choose your mobile company that is android or IOS.
+            Step3:After choosing,it shows you 2 options as "TAP TO PLAY"or "RUN ON YOUR DEVICE".
+            Step4:Choose "RUN ON YOUR DEVICE".
+            Step5:Then,download the expo app on your mobile phone.
+            Step6:Then,it shows 3 options in your PC.
+            Step7:You can choose any option(As your convinence).
+            Step8:After choosing,you get an page in your phone.
+            Step9:After sometime,you can see your changes in mobile as well as in the PC in the output screen.
+            Step10:Finally,you get your first designed app in your mobile.
+
+
+
+
+
+9. What is the use of the render function in React Native Framework?
+
+Answer: Render function is just a synonym of display function.
+              
+
+
+
+
+10. What is the use of the return function in the React Native Framework?
+
+Answer:A return statement ends the execution of a function.It even controls the function.
+
+
+
+
+11. What are the various components in your first app that you designed?
+
+Answer: Redbutton extends and app extends are the 2 components.
+
+
+
